@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 # แก้ URL ให้ตรงกับเว็บไซต์จริงก่อนเผยแพร่
-Sitemap: https://jiloo271.github.io/inventor-lab/sitemap.xml
+Sitemap: https://jiloo271.github.io/inventor-lab/
+
