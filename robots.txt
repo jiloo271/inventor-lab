@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# แก้ URL ให้ตรงกับเว็บไซต์จริงก่อนเผยแพร่
+Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPO/sitemap.xml
